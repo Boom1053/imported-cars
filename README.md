@@ -6,12 +6,7 @@
 <!--![Issues](https://img.shields.io/github/issues/PLOKMJNB/FiveM-Civ-Car-Pack?style=for-the-badge&logo=github)-->
 <!--![Car Menu](https://img.shields.io/badge/Cars%20As%20of%20Now-161-brightgreen?style=for-the-badge)-->
 
-***Want any car in here? Just make an issue with a download link and I'll get to it!***
-
-[***Join the discord to talk to me faster or to get help! (just click this line)***](https://discord.gg/vZmRp7EqSS)
-
-
-***To see the car pictures better/larger click [here](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack/blob/master/README.md)***
+***To see the car pictures better/larger click [here](https://github.com/Boom1053/imported-cars/blob/main/README.md)***
 
 <center><h1>All included cars with pictures and spawn codes</h1></center>
 
